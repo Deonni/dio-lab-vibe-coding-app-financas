@@ -1,4 +1,69 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de Organização de Finanças Pessoais com Vibe Coding do Deonni Lincoln
+
+#PRD Refinado no Copilote
+```markdown
+# PRD – Aplicativo de Finanças Pessoais Conversacional
+
+## 1. Visão Geral
+O aplicativo tem como objetivo simplificar o controle financeiro pessoal por meio de conversas naturais, eliminando a necessidade de formulários complexos ou planilhas. A proposta é oferecer uma experiência acessível, motivadora e inclusiva.
+
+## 2. Problema
+- Aplicativos atuais exigem muita entrada manual.
+- Recomendações pouco personalizadas.
+- Usuários iniciantes desistem por acharem o processo complicado.
+
+## 3. Público-Alvo
+- Pessoas iniciando o controle financeiro.
+- Usuários que buscam praticidade e simplicidade.
+- Jovens adultos e profissionais em início de carreira.
+
+## 4. Objetivos do MVP
+- Permitir registro de gastos em linguagem natural.
+- Automatizar a categorização de transações.
+- Apoiar definição e acompanhamento de metas financeiras simples.
+- Oferecer dicas de economia por meio de um agente digital.
+- Fornecer relatórios claros e personalizados.
+
+## 5. Funcionalidades-Chave
+1. Registro de gastos via chat.
+2. Classificação automática das transações.
+3. Metas financeiras simples (ex.: guardar R$200/mês).
+4. Agente Financeiro com recomendações e alertas.
+5. Relatórios personalizados em gráficos básicos.
+
+## 6. Principais Telas
+- **Tela de Conversa**: interação principal com o usuário.
+- **Tela de Metas**: definição e acompanhamento de objetivos.
+- **Tela de Relatórios**: gráficos e insights sobre gastos e economia.
+- **Tela de Configurações**: preferências básicas (moeda, notificações, categorias).
+
+## 7. Recursos Necessários
+- Processamento de linguagem natural (NLP).
+- Banco de dados para transações e metas.
+- Motor de categorização automática.
+- Camada de relatórios simples.
+- Sistema de notificações.
+
+## 8. Design Universal
+A solução deve seguir princípios de Design Universal, garantindo boa experiência para o maior número possível de pessoas, independentemente de idade, nível de experiência digital ou limitações físicas. Isso inclui:
+- Interface clara e acessível.
+- Linguagem simples e inclusiva.
+- Compatibilidade com recursos de acessibilidade (ex.: leitores de tela).
+- Navegação intuitiva e consistente.
+
+## 9. Validação Inicial
+- Teste com grupo piloto de 10–20 usuários.
+- Métricas de sucesso:
+  - Taxa de interpretação correta dos gastos.
+  - Engajamento semanal.
+  - Retenção após 30 dias.
+- Feedback qualitativo por entrevistas rápidas.
+
+## 10. Tom e Linguagem
+- Educativo e acessível.
+- Conversa amigável, estilo “coach financeiro digital”.
+- Motivação sem pressão.
+```
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
@@ -32,7 +97,7 @@ A ideia é facilitar o controle financeiro de forma simples e natural, sem formu
 
 # Problema
 Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
-Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+Quero resolver isso com uma experiência de conver/sa e recomendações automáticas de economia.
 
 # Público-Alvo
 Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
