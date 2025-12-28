@@ -50,10 +50,10 @@ Usar tom educativo e linguagem acessível, em português.
 ```
 
 ```txt
-Nesse curso aprendi a cria templates ou prototipar sistemas de forma rápida usando IA
-Eu realmente desconheciao o poder dessas ferramentas assim sendo será uma grande adição para meu crescimento profissional e pessoal
-pretendo continuar a me aprofundar no estudo de IA e cloud.
- Agradeço a caixa por sugerir esses curso, também aos profissionais que lecionam no mesmo.
+Neste curso, aprendi a criar templates e prototipar sistemas de forma ágil utilizando ferramentas de Inteligência Artificial. Eu desconhecia o verdadeiro potencial dessas tecnologias, e agora percebo o quanto elas podem contribuir significativamente para o meu crescimento profissional e pessoal.
+Pretendo continuar me aprofundando nos estudos em IA e computação em nuvem, ampliando ainda mais meus conhecimentos nessa área promissora.
+Agradeço à Caixa pela indicação do curso e aos profissionais envolvidos pela qualidade do conteúdo e dedicação no ensino.
+
 ```
 Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
 
