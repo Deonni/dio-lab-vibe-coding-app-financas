@@ -49,6 +49,12 @@ Gerar um plano de MVP com as principais telas, recursos necessários e um esboç
 Usar tom educativo e linguagem acessível, em português.
 ```
 
+```txt
+Nesse curso aprendi a cria templates ou prototipar sistemas de forma rápida usando IA
+Eu realmente desconheciao o poder dessas ferramentas assim sendo será uma grande adição para meu crescimento profissional e pessoal
+pretendo continuar a me aprofundar no estudo de IA e cloud.
+ Agradeço a caixa por sugerir esses curso, também aos profissionais que lecionam no mesmo.
+```
 Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
 
 > [!TIP]
